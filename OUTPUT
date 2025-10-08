@@ -1,0 +1,25 @@
+=== Part (a): Sorting Employee Objects Using Lambda ===
+Sorted by Salary:
+103 - Rohit - 40000.0
+101 - Ayush - 50000.0
+102 - Karan - 60000.0
+
+Sorted by Name:
+101 - Ayush - 50000.0
+102 - Karan - 60000.0
+103 - Rohit - 40000.0
+
+=== Part (b): Filtering and Sorting Students Using Streams ===
+Students with marks > 70 (Sorted by marks descending):
+Riya - 92
+Ayush - 85
+Simran - 75
+
+=== Part (c): Stream Operations on Product Dataset ===
+Products priced above 1000:
+1 - Laptop - 60000.0
+3 - Keyboard - 1500.0
+4 - Monitor - 12000.0
+
+Average Price: 18550.0
+Most Expensive Product: 1 - Laptop - 60000.0
